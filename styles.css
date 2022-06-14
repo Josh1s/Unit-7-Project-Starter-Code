@@ -1,0 +1,17 @@
+body {
+    background-image: url("https://i.gifer.com/IzdC.gif");
+}
+input {
+    background-color:lightgreen;
+}
+h1,p {
+	color:white;
+}
+button {
+	background-color:#FFF99B;
+}
+.result {
+	font-size:50px;
+    color:white;
+    justify-content:space-around;
+}
